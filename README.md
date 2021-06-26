@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jjerrell
+- 👀 I’m interested in Swift, Kotlin, Kotlin Multiplatform Mobile, Gradle, Mechanical Keyboards, Ergonomics, and investing.
+- 🌱 I’m currently learning everything I can get my hands on
+- 💞️ I’m looking to collaborate on keyboard firmware, technical analysis of securities, and multiplatform technologies.
+- 📫 Reach me via GitHub @jjerrell
