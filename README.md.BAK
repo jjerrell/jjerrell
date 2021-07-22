@@ -15,17 +15,32 @@
 
 - [Preamble](#preamble)
   - [Contents](#contents)
+    - [Competencies](#competencies)
+    - [Character Traits](#character-traits)
+    - [Hobbies](#hobbies)
+    - [Noteworthy Achievements](#noteworthy-achievements)
     - [Character Testimonies](#character-testimonies)
       - [Ryan Durham, Senior Manager of Development](#ryan-durham-senior-manager-of-development)
       - [Christine Stetler, Implementations Architect](#christine-stetler-implementations-architect)
       - [Myra McIver, Expert Client Account Manager](#myra-mciver-expert-client-account-manager)
     - [Contributions to the Public Domain](#contributions-to-the-public-domain)
     - [Social Media Links](#social-media-links)
-    - [Hobbies](#hobbies)
-    - [Competencies](#competencies)
-    - [Character Traits](#character-traits)
-    - [Noteworthy Achievements](#noteworthy-achievements)
 
+### Competencies
+
+### Character Traits
+
+### Hobbies
+
+- ⌨️ Mechanical Keyboards
+  - [Check out my QMK Fork](https://github.com/jjerrell/qmk_firmware)
+    - Updates appear in my fork first. Evetually a PR into my local master is published and reviewed by me. Finally, a PR into the upstream repository is opened. The initial PR will be marked as closed whenever there are no more conflicts after merging upstream master into my fork.
+    - This workflow is a pedantic interpretation of their [contribution guidelines](https://docs.qmk.fm/#/contributing).
+- 🧐 Technical Analysis of Securities
+- 🐢 Investing Responsibly
+- ⏳ Making the most of the short amount of time we get to occupy this planet
+
+### Noteworthy Achievements
 
 ### Character Testimonies
 
@@ -48,18 +63,3 @@
 ### Social Media Links
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-jerrell89/)
-
-### Hobbies
-
-- ⌨️ Mechanical Keyboards
-  - [Check out my QMK Fork](https://github.com/jjerrell/qmk_firmware)
-    - Updates appear in my fork first. Evetually a PR into my local master is published and reviewed by me. Finally, a PR into the upstream repository is opened. The initial PR will be marked as closed whenever there are no more conflicts after merging upstream master into my fork.
-    - This workflow is a pedantic interpretation of their [contribution guidelines](https://docs.qmk.fm/#/contributing).
-- 🧐 Technical Analysis of Securities
-- 🐢 Investing Responsibly
-- ⏳ Making the most of the short amount of time we get to occupy this planet
-
-### Competencies
-
-### Character Traits
-### Noteworthy Achievements
