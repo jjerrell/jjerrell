@@ -63,5 +63,3 @@
 ### Social Media Links
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-jerrell89/)
-test foo
-test foo
